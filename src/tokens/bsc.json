@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Venus BTC",
+    "address": "0x882c173bc7ff3b7786ca16dfed3dfffb9ee7847b",
+    "symbol": "vBTC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
+  }
+}
