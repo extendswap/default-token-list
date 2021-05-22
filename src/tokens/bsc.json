@@ -1,10 +1,26 @@
 [
   {
-    "name": "Venus BTC",
-    "address": "0x882C173bC7Ff3b7786CA16dfeD3DFFfb9Ee7847B",
-    "symbol": "vBTC",
-    "decimals": 18,
+    "name": "Eternal Cash",
+    "address": "0x400df62c3052fdbaad8c74c0226147f9bfaaf7ec",
+    "symbol": "EC",
+    "decimals": 9,
     "chainId": 56,
     "logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
+  },
+  {
+    "name": "Extended Finance",
+    "address": "0x6306e883493824ccf606d90e25f68a28e47b98a3",
+    "symbol": "EXF",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
+  },
+  {
+    "name": "Binance USD Peg",
+    "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+    "symbol": "BUSD",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://cdn.coinranking.com/6SJHRfClq/busd.svg?size=48x48"
   }
 ]
