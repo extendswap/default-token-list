@@ -4,7 +4,7 @@ const bsc = require("./tokens/bsc.json");
 module.exports = function buildList() {
   const parsed = version.split(".");
   return {
-    name: "Extendswap Default List",
+    name: "Extendswap List",
     timestamp: new Date().toISOString(),
     version: {
       major: +parsed[0],
