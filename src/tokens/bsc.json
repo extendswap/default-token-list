@@ -1,7 +1,7 @@
 [
   {
     "name": "Eternal Cash",
-    "address": "0x400df62c3052fdbaad8c74c0226147f9bfaaf7ec",
+    "address": "0x400df62C3052fDBaad8C74C0226147F9bFaaF7eC",
     "symbol": "EC",
     "decimals": 9,
     "chainId": 56,
