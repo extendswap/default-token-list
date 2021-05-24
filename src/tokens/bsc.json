@@ -16,11 +16,27 @@
     "logoURI": "https://i.imgur.com/m4ejgr1.png"
   },
   {
+    "name": "EXFelix",
+    "address": "0x529d5fe5a9a3fdcda1e74f6fbf4388addaf71bb0",
+    "symbol": "EXFelix",
+    "decimals": 9,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/KrS2Sjo.png"
+  },
+  {
     "name": "Binance USD Peg",
     "address": "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/3j4Va8W.png"
+  },
+  {
+    "name": "Binance-Peg BUSD-T",
+    "address": "0x55d398326f99059ff775485246999027b3197955",
+    "symbol": "USDT",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/vaq4VxA.png"
   }
 ]
