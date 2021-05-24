@@ -5,7 +5,7 @@
     "symbol": "EC",
     "decimals": 9,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
+    "logoURI": "https://i.imgur.com/YSvXGKM.png"
   },
   {
     "name": "Extended Finance",
@@ -13,7 +13,7 @@
     "symbol": "EXF",
     "decimals": 9,
     "chainId": 56,
-    "logoURI": "https://bscscan.com/token/images/venus-vbtc_32.png"
+    "logoURI": "https://i.imgur.com/m4ejgr1.png"
   },
   {
     "name": "Binance USD Peg",
@@ -21,6 +21,6 @@
     "symbol": "BUSD",
     "decimals": 18,
     "chainId": 56,
-    "logoURI": "https://cdn.coinranking.com/6SJHRfClq/busd.svg?size=48x48"
+    "logoURI": "https://i.imgur.com/3j4Va8W.png"
   }
 ]
