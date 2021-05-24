@@ -1,8 +1,8 @@
 {
   "name": "@extendswap/default-token-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "◦ The ExtendSwap default token list",
-  "main": "build/uniswap-default.tokenlist.json",
+  "main": "build/extendswap-default.tokenlist.json",
   "scripts": {
     "test": "mocha",
     "build": "rimraf build && mkdir -p build && node src/write.js > build/extendswap-default.tokenlist.json",
