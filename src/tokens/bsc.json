@@ -89,7 +89,7 @@
   },
   {
     "name": "Bunny Token",
-    "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+    "address": "0xC9849E6fdB743d08fAeE3E34dd2D1bc69EA11a51",
     "symbol": "BUNNY",
     "decimals": 18,
     "chainId": 56,
