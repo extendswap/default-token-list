@@ -38,5 +38,21 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/vaq4VxA.png"
+  },
+  {
+    "name": "Binance-Peg Dai",
+    "address": "0x1af3f329e8be154074d8769d1ffa4ee058b1dbc3",
+    "symbol": "DAI",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/PauVBMd.png"
+  },
+  {
+    "name": "Binance-Peg USD Coin",
+    "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+    "symbol": "USDC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/K5BLxqm.png"
   }
 ]
