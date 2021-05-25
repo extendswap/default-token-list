@@ -1,6 +1,6 @@
 {
   "name": "@extendswap/default-token-list",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "◦ The ExtendSwap default token list",
   "main": "build/extendswap-default.tokenlist.json",
   "scripts": {
