@@ -62,5 +62,37 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/phZuKZ2.png"
+  },
+  {
+    "name": "PancakeSwap Token",
+    "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+    "symbol": "Cake",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/egMDZrY.png"
+  },
+  {
+    "name": "BakeryToken",
+    "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+    "symbol": "BAKE",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/R7rAYbV.png"
+  },
+  {
+    "name": "Berry Tributes",
+    "address": "0xf859Bf77cBe8699013d6Dbc7C2b926Aaf307F830",
+    "symbol": "BRY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/UgmLfA4.png"
+  },
+  {
+    "name": "Bunny Token",
+    "address": "0xc9849e6fdb743d08faee3e34dd2d1bc69ea11a51",
+    "symbol": "BUNNY",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/ldP7QI9.png"
   }
 ]
