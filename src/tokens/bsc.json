@@ -102,5 +102,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/lMp8F2m.png"
+  },
+  {
+    "name": "Binance-Peg XRP Token",
+    "address": "0x1d2f0da169ceb9fc7b3144628db156f3f6c60dbe",
+    "symbol": "XRP",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/ycQm8bE.png"
   }
 ]
