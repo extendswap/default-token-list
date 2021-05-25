@@ -21,7 +21,7 @@ jobs:
         with:
           node-version: 10
       - run: yarn
-      # - run: yarn test # ENABLE LATER
+      - run: yarn test # ENABLE LATER
 
   publish-npm:
     needs: build
