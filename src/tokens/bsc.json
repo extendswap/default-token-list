@@ -54,5 +54,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/K5BLxqm.png"
-  }
+  },
+  {
+    "name": "YoloDraw",
+    "address": "0xf19a0a7bdabd710fa2c33df432760c9bec195011",
+    "symbol": "YoloDraw",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/phZuKZ2.png"
+  },
 ]
