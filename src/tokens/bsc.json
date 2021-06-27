@@ -118,7 +118,7 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/9hoWebW.png"
-  }
+  },
   {
     "name": "TRON",
     "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
@@ -126,5 +126,5 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/Hzt2Wme.png"
-  },
+  }
 ]
