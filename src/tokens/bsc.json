@@ -126,5 +126,21 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/Hzt2Wme.png"
+  },
+  {
+    "name": "Litecoin Token",
+    "address": "0x4338665cbb7b2485a8855a139b75d5e34ab0db94",
+    "symbol": "LTC",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/KYDxUG8.png"
+  },
+  {
+    "name": "Ethereum Token",
+    "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+    "symbol": "ETH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/lMp8F2m.png"
   }
 ]
