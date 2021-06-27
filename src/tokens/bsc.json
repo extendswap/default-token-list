@@ -121,7 +121,7 @@
   },
   {
     "name": "TRON",
-    "address": "0x85eac5ac2f758618dfa09bdbe0cf174e7d574d5b",
+    "address": "0x85EAC5Ac2F758618dFa09bDbe0cf174e7d574D5B",
     "symbol": "TRX",
     "decimals": 18,
     "chainId": 56,
