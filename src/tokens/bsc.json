@@ -134,13 +134,6 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/KYDxUG8.png"
-  },
-  {
-    "name": "Ethereum Token",
-    "address": "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-    "symbol": "ETH",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://i.imgur.com/lMp8F2m.png"
   }
+  
 ]
