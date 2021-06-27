@@ -56,9 +56,9 @@
     "logoURI": "https://i.imgur.com/K5BLxqm.png"
   },
   {
-    "name": "YoloDraw",
-    "address": "0xF19A0a7bDAbD710fa2C33dF432760c9BEC195011",
-    "symbol": "YoloDraw",
+    "name": "YoloVerse",
+    "address": "0xd084c5a4a621914ed2992310024d2438dfde5bfd",
+    "symbol": "YOLOV",
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/phZuKZ2.png"
