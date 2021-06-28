@@ -56,14 +56,6 @@
     "logoURI": "https://i.imgur.com/K5BLxqm.png"
   },
   {
-    "name": "YoloVerse",
-    "address": "0xD084C5a4a621914eD2992310024d2438DFde5BfD",
-    "symbol": "YOLOV",
-    "decimals": 18,
-    "chainId": 56,
-    "logoURI": "https://i.imgur.com/fbu67ZE.png"
-  },
-  {
     "name": "PancakeSwap Token",
     "address": "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
     "symbol": "Cake",
