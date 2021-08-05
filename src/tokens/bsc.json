@@ -126,6 +126,13 @@
     "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/KYDxUG8.png"
+  },
+  {
+    "name": "DOUGH",
+    "address": "0xD3Fa2A4fd73495F9eBf6ba333891E94cA1eCb36c",]
+    "symbol": "DOUGH",
+    "decimals": 18,
+    "chainId": 56,
+    "logoURI": "https://i.imgur.com/FVx2ma9.png"
   }
-  
 ]
