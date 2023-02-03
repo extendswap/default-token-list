@@ -3,7 +3,7 @@
     "name": "Eternal Cash",
     "address": "0x63A6A5a16b81dBf30045EB3b46d977CaC24aD5d0",
     "symbol": "EC",
-    "decimals": 9,
+    "decimals": 18,
     "chainId": 56,
     "logoURI": "https://i.imgur.com/YSvXGKM.png"
   },
